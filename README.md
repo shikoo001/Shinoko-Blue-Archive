@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/shikoo001/Shinoko-Blue-Archive/blob/main/73737df8517de97edb200bd81504d13e.jpg" width="320"/>
+<img src="https://github.com/shikoo001/Shinoko-Blue-Archive/blob/main/__sena_blue_archive_drawn_by_sych1590__sample-a10e8d723523c163978bd9af449c2624.jpg" width="320"/>
 
 # Shinoko-Blue Archive
 
